@@ -3,7 +3,7 @@ bayu's resume/cv.
 
 ## Edit
 Edit the `resume.tex` file using tex editor like
-[TexShop](http://pages.uoregon.edu/koch/texshop/)
+[TexShop](http://pages.uoregon.edu/koch/texshop/) or online editor like [Overleaf](https://www.overleaf.com/read/wxyjnbfqjjqk).
 
 ## Templates
 
